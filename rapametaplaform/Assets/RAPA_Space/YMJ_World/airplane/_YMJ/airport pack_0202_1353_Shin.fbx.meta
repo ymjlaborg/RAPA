@@ -1,0 +1,1484 @@
+fileFormatVersion: 2
+guid: 1f6daaf2e2381094e87aada39ed72a9d
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD facade
+    second: {fileID: 2100000, guid: 26916c502fb1a4a4bbbbd7efeb1c49cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ad facede.wall.001
+    second: {fileID: 2100000, guid: 1ece34b07ff50854882cb843caaa1320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ad facede.wall.002
+    second: {fileID: 2100000, guid: 58a485f8a76708f4eaea18d9aea5c385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ad facede.wall.003
+    second: {fileID: 2100000, guid: 920651f1bde23e64fa25f639df24d970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arrival Gate
+    second: {fileID: 2100000, guid: 1d717b29a524a0d46ba5ca9216f174fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: dc7cb408eb9a7d44085e2c30edf661cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black.mat
+    second: {fileID: 2100000, guid: 2b275d28df71d54469f98ac1e590affd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair steel
+    second: {fileID: 2100000, guid: 13f022e86c8af6a44a02634e5fecabe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enter_stand.001
+    second: {fileID: 2100000, guid: 830607be91ee5164dac50b7297c0dc6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fan.Base
+    second: {fileID: 2100000, guid: 993b206711908fa44af943daf06d9e7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower Stand 2.001
+    second: {fileID: 2100000, guid: d90ccd1490fb0014e8640b133197e836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gate.steel
+    second: {fileID: 2100000, guid: 7dbfc8dbb0fcba145bbd07a390b724d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gate4to5.ShinBank
+    second: {fileID: 2100000, guid: 23f7778f899c94f4e9a5d3582d2a54d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Info center
+    second: {fileID: 2100000, guid: 418bf3dfcf5d6a24ba9960bfa370f35a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 8521c6918d79c6c4db112167c1098dca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 9824de45d96f83f4a9271eeee5589dab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: ef97081de3ddb124a9f5f8b5a7d829c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 30c777c06a2fddc46ad84580ebcb5d30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: ab36b9b45584729469cccf7fbe29a717, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: b2eb4b298325a3244963cc770be9fd48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 17f68b657112ddc4eb30fb147d32a0c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 6b57ef65a46483544b1c6c23103af93d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: d866208741e1b884aa5b73f56afa2987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: 75c6b7a02b4bef84fb1784717bc2f234, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: 4a6362d53b078db48a80bd36cd7911d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: 95672f288a4b65f42aed84ccb2bb4347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piilar_bottom.001
+    second: {fileID: 2100000, guid: 14b5657a5daa0a34e92178a7fe9884ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillar.white.001
+    second: {fileID: 2100000, guid: acb954279dd62ad40997dfcfb1066628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plant._C
+    second: {fileID: 2100000, guid: 2c4e3ad6e74038a44a80f886eaf72459, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: 52e583adf099969459fffb8d16019876, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall.elevator_
+    second: {fileID: 2100000, guid: 4860f1c106e205549a872764fd9ea1d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window.Back
+    second: {fileID: 2100000, guid: b44ba0d82be8629419e2a85248d16b07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window.Bar
+    second: {fileID: 2100000, guid: 60143f64481d41046b2e2463a22b25a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window.Bar.001
+    second: {fileID: 2100000, guid: 36dbf10120fb6494f890f6452e7f9e33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrival_L
+    second: {fileID: 2100000, guid: 3ee4ace72fe112543999c5c6ae931e73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ball light 4
+    second: {fileID: 2100000, guid: c441d74ecc28e65439713403d945f75c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ball light1
+    second: {fileID: 2100000, guid: d758409d65ae2f040a30c24ee9672f31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ball light2
+    second: {fileID: 2100000, guid: 9e3a33aba31b55f4a8ac5ab1a93ceb3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ball light3
+    second: {fileID: 2100000, guid: b619fbc6fec390540999ffcf73119f5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ball light5
+    second: {fileID: 2100000, guid: 9097190ca4140744babb495a4409bc9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ball structure
+    second: {fileID: 2100000, guid: cbcd2beadac152d4388262cb6cf9ed4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: balll light6
+    second: {fileID: 2100000, guid: 23da272c20f96734b937f9b129e19ad8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bank1
+    second: {fileID: 2100000, guid: 6fb05f808610c9c4f819a0f907c8f7c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bank2
+    second: {fileID: 2100000, guid: 007adfe94269a2e40bb99efaf62fc2e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bank3
+    second: {fileID: 2100000, guid: 811f200730507f34989056cf7cabf7f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bank4
+    second: {fileID: 2100000, guid: cacf41a9a949ebb4195a0c9035797125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bank5
+    second: {fileID: 2100000, guid: 1714ae26ac7428d49b778cb53624497b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: banner
+    second: {fileID: 2100000, guid: 19e76a129a62eb44c9735ea8f306c4f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: banner1
+    second: {fileID: 2100000, guid: acf6109fdde27d649bff6543e7d21548, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: banner2
+    second: {fileID: 2100000, guid: 56999cd3e53e9064dae23ecaa82ac2a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair A
+    second: {fileID: 2100000, guid: 7a0500962a86fd8469a18cb6e3cdcfac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair_B_normal
+    second: {fileID: 2100000, guid: 615e820fc94907541866a81f26623226, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: charge
+    second: {fileID: 2100000, guid: bfaa518c0cf9f844cb6923e6b2b6dc5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: checkin
+    second: {fileID: 2100000, guid: 3da3431d7b4a9bd40b369e91cf9b67b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: checkin_side
+    second: {fileID: 2100000, guid: 944fadb7e116ea94f900b47174e5ca44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: checkin_upper
+    second: {fileID: 2100000, guid: 9779345694e56734cb18527e4941bd2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clock
+    second: {fileID: 2100000, guid: 278d212ef391a6f4eaca1e19d4a692be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cpr2
+    second: {fileID: 2100000, guid: ebc0ef4a8c1ee4e47bd8cde94a53d62f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cpr_1
+    second: {fileID: 2100000, guid: d0a0abcc22373084f952e6f5cfdbc30e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: designskin
+    second: {fileID: 2100000, guid: 1977cec0de2421044af98e9d4c82153d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: display1
+    second: {fileID: 2100000, guid: 53f1e31a0c2d19d4ab8dae04def7539c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: display3
+    second: {fileID: 2100000, guid: 6b17f184d34633649a4d35b4566cbec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: display4
+    second: {fileID: 2100000, guid: bd54495450d8b2b4ca1ad9f102aeaae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: display9
+    second: {fileID: 2100000, guid: 96fbe45dacda47b4a8acefaebcc81e81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escalator fence
+    second: {fileID: 2100000, guid: a90e6bfb08985ee439a8d76f93b7f50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escalator_notice.001
+    second: {fileID: 2100000, guid: dd564c5ec7814fd4d80b79eed03f1f97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escalator_notice.002
+    second: {fileID: 2100000, guid: f212fa4589eeb78488009c893fcde04d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escalator_notice2
+    second: {fileID: 2100000, guid: 623f5f3ed13c06346b7eba8112a0f1ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escalator_notice2.001
+    second: {fileID: 2100000, guid: 1c657d406fa1b624695cbf76b25fd751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escalator_notice2.002
+    second: {fileID: 2100000, guid: 18acf4b1dda3d674aa8237ccdd905180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fence glass
+    second: {fileID: 2100000, guid: 8a0a4ab546d8c58489f344453f7dc01e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fencerail
+    second: {fileID: 2100000, guid: a498147e100c52d4080be36339a48bb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fire.001
+    second: {fileID: 2100000, guid: 08011338e3210e141910984589e6c2f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flat
+    second: {fileID: 2100000, guid: 76dd64ab10293c44fb5a10d73763a390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flower2
+    second: {fileID: 2100000, guid: 8ad727131a1aeca42aee79122df7b300, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flower3
+    second: {fileID: 2100000, guid: c72e591a4716db947b8601878f99f7cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: free charge
+    second: {fileID: 2100000, guid: 2f6eadc1e08c34143bd9dacfbd748bbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garbage1
+    second: {fileID: 2100000, guid: ee5dc3726840c3b4a8995e3e8350c533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garbage2
+    second: {fileID: 2100000, guid: a24e70d6baae18a4fa1ee2bd46419622, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate1_center
+    second: {fileID: 2100000, guid: e6766f079c9d74a4b9edc2e722a556fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate1_left
+    second: {fileID: 2100000, guid: 842ad5d09309c1e459e53b5074f9a84d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate1_right
+    second: {fileID: 2100000, guid: 753cd273a5c098b49a6d5f38ab641434, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate2_center
+    second: {fileID: 2100000, guid: f95760f7ffa988446a23c590e8add420, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate2_left
+    second: {fileID: 2100000, guid: 6bdeab34db550d84ab7d5d3fa021efd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate2_right
+    second: {fileID: 2100000, guid: cb42b357b952ca74c877a3747e4c740f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate3_center
+    second: {fileID: 2100000, guid: fabac6ea14e001b438f8f77a11fc205a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate3_left
+    second: {fileID: 2100000, guid: 9033ae8a04e46ec439f960ef3ce9f524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate3_right
+    second: {fileID: 2100000, guid: b6a5755c84bc54f4d890df42b6d236b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate4_center
+    second: {fileID: 2100000, guid: cdc63cdf3c5d7654fbf32989eec2f95d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate4_left
+    second: {fileID: 2100000, guid: ed55e5bf51d95714fa91f686ccb2fe8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate4_right
+    second: {fileID: 2100000, guid: e8c4aad38d1b4e348bc8cb28c3981288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate4to5
+    second: {fileID: 2100000, guid: 3580364832d5b3242a991ac1e00e6be5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate5 door
+    second: {fileID: 2100000, guid: 228c8ae9d805caa4ba977b6b87f8e2eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate5 escalator
+    second: {fileID: 2100000, guid: 72cb0fc3ec97d48468250e1550b301c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate5_center
+    second: {fileID: 2100000, guid: 9968ae3efdb9b3a4ba916f3c87a8b61d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate5_left
+    second: {fileID: 2100000, guid: bb22cbc70e26bd94284cf51631407787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate5_right
+    second: {fileID: 2100000, guid: bf7849154111f6a469a2b4978fdc2217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate_back
+    second: {fileID: 2100000, guid: eab6ed66d46f61d4f9d47caa07285fc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate_black.001
+    second: {fileID: 2100000, guid: 6d6958ee04cea864ca3345cd5224c971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate_side
+    second: {fileID: 2100000, guid: df966b411b27d364f9a12e84bc6d9ac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: d05ce41d1d5a52c4eab9ba2e0b2f76b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand
+    second: {fileID: 2100000, guid: d564d4da2f8b0f84f9b59cd8fe98eb72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handwash
+    second: {fileID: 2100000, guid: 78d23b130fd07b847aa19ce22a4b5093, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horse
+    second: {fileID: 2100000, guid: 0660a4899413d844aafeed51aea33e6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horsebottom
+    second: {fileID: 2100000, guid: 0fda005c718ed3947b1c45dbe94536c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horsebottom_grass
+    second: {fileID: 2100000, guid: 87b99753384adf742900a5c065a96079, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: info
+    second: {fileID: 2100000, guid: 0c845784c8772b0499533b248f5a2282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaf
+    second: {fileID: 2100000, guid: 5e3643eae71366446a0e842cd9294b41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2100000, guid: 8797f3cb74a149f4f9256f0c0eae5d4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: little brown
+    second: {fileID: 2100000, guid: 1f89fe56573a5e14c93ecd83e2c94177, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: man
+    second: {fileID: 2100000, guid: 4d939577ae6a4cf4890ebd82435c1610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: man_upper
+    second: {fileID: 2100000, guid: 511902a628cfc7645a114f787630e92f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: d100be664c08b34459ae1b85db8d8d59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: normal
+    second: {fileID: 2100000, guid: 41b58697b17239842bae0a62afe2af8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: notice3
+    second: {fileID: 2100000, guid: 42fc53465a792a5478c033e77eff596b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: notice4
+    second: {fileID: 2100000, guid: 54b03029efaba66498f3f0b426f52a4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: notice5
+    second: {fileID: 2100000, guid: 5b65859a94723074faeecb2fad2a28f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: notice6
+    second: {fileID: 2100000, guid: 69942a020d821c04e93843d6acb6d9cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: photo
+    second: {fileID: 2100000, guid: 53dc5ba6bec454a4693f908bfdb53881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillar.001
+    second: {fileID: 2100000, guid: d2640dc793ea1af4a859b10703e8bee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillarcover
+    second: {fileID: 2100000, guid: 0d568671eab0b2b4f8a099437421e12c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillarcover.001
+    second: {fileID: 2100000, guid: f48347441dca46445a78c1eb884f5636, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plant
+    second: {fileID: 2100000, guid: 575dc7b780451d3479ac3e3ead36f86d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plant1
+    second: {fileID: 2100000, guid: 8a4b017225c9cf74980240c7a6d5fdd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: postoffice
+    second: {fileID: 2100000, guid: 247671b7a4cf02541a0e24ae9ccafc33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rail
+    second: {fileID: 2100000, guid: e4599be58b04a9b4fb905e7b548031ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rentcar1
+    second: {fileID: 2100000, guid: 468f1a10cd3a4634d8ca96fe03c4dd0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rentcar2
+    second: {fileID: 2100000, guid: 583a44f76e55f5542bd9082f22ac32cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rentcar2.001
+    second: {fileID: 2100000, guid: fa55a5e19f66df9489542b20aa0dc2de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rentcar3
+    second: {fileID: 2100000, guid: dcdd78c1ade51b4409c654f9cb239ab2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: resto.LR
+    second: {fileID: 2100000, guid: 79c76597ae5eb414882bdcfa5b8910d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: resto.center
+    second: {fileID: 2100000, guid: f443325e7929e5241b38aab6c9841636, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shinbank0
+    second: {fileID: 2100000, guid: bb5139f3502401143b8ff0a6e781d380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: slot
+    second: {fileID: 2100000, guid: 88555b4b82003b44d94a4dc98335f78b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: step
+    second: {fileID: 2100000, guid: bd9c3c45e3938a74d80bbdf99f1a8b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_center
+    second: {fileID: 2100000, guid: 2dcca62170635734dac3b12d8fd75c9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_wood
+    second: {fileID: 2100000, guid: 560f783798f736d4aa540ee2b6f27ad9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tile
+    second: {fileID: 2100000, guid: 3f3d6fc2589362f4593e6dad3033d295, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall.police
+    second: {fileID: 2100000, guid: 078c9273a80d9964a81b2cc0ac283878, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_fire
+    second: {fileID: 2100000, guid: f31f29f1b1c839d4899d323b219b7548, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelshare_bottom
+    second: {fileID: 2100000, guid: 585949eb157f4fa45a4344f00fa628f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelshare_upper
+    second: {fileID: 2100000, guid: 5bc92742c13f55645ab393be0b0c8d9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: e4e16e2fec1afea4db2a607e15844129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: woman
+    second: {fileID: 2100000, guid: 95956e0e367bd8746a9df3047ea46c9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: d567a09aa8ba8e644b98e865f6878a06, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AD facade
+    second: {fileID: 2800000, guid: 27298e84acd85bd44b34654b0d4f95d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GATE4to5_shinBank_
+    second: {fileID: 2800000, guid: a6340813fd57cba4384e31f1c92a1f9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal041A_1K_Color
+    second: {fileID: 2800000, guid: fd90260bbacfac74da189fd416c796f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal041A_1K_NormalGL
+    second: {fileID: 2800000, guid: c6eae7c43ef8e5047968d0efe41b358e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OK2_fire
+    second: {fileID: 2800000, guid: c7831da2b928a1048a46de7ddc3143fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OK_bank1
+    second: {fileID: 2800000, guid: c5d2c8f945baa9642a368caff585860a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OK_cpr2
+    second: {fileID: 2800000, guid: cb63205207c691c4b92de6a8a953f7e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OK_gate2 to 3 _ elevator
+    second: {fileID: 2800000, guid: e239ee1b37e34614798024e4a2502c40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OK_gate5_2
+    second: {fileID: 2800000, guid: d736a7a4f2ff884438d4843be15b69ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OK_handwash
+    second: {fileID: 2800000, guid: 3436a6c59dfedc74393d2f3c382288e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Out image
+    second: {fileID: 2800000, guid: 1a4d22f9576ba4343aa7f8e247e093b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Walls 512
+    second: {fileID: 2800000, guid: 378d35cb45c1bdb4a93e1634b1dca4a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Walls_man
+    second: {fileID: 2800000, guid: 1ada2f6bd667e3f42a66291fe20041bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Walls_toilet_man_upper
+    second: {fileID: 2800000, guid: 5377e66ed7b0d4c47b934e18457c0106, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Walls_woman
+    second: {fileID: 2800000, guid: ee9beecf3efc17b4d92071739c0b6c67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: arrival_pill
+    second: {fileID: 2800000, guid: 506f086476471bd4ab25711f5f19af32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ball light1
+    second: {fileID: 2800000, guid: a9a0a4e61049fd14bb6b4701ef3b5dc1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ball light2
+    second: {fileID: 2800000, guid: 1bf7a66c26ca5a14792e0fcd8c97e25c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ball light3
+    second: {fileID: 2800000, guid: 2bcce9cf87b2ca441a86c29bb0ebcc4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ball light4
+    second: {fileID: 2800000, guid: d42d7e9fe29353c49b39390280232ca5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ball light5
+    second: {fileID: 2800000, guid: cb3cb403d46966f438a69ca0495e737c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ball light6
+    second: {fileID: 2800000, guid: 68d03f434026ce04db722f41e6eab213, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ball structure
+    second: {fileID: 2800000, guid: c395a5aea72ce9c419a201379441376a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: banner
+    second: {fileID: 2800000, guid: 279b92e39ebeefd4fbe706b8e857c00d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ceiling2_final
+    second: {fileID: 2800000, guid: 6c072014d6ed036488c82bd4bfc70a12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ceiling_final
+    second: {fileID: 2800000, guid: 3c66bcac30ceaca488c0ca741b91527b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ceiling_white
+    second: {fileID: 2800000, guid: 4f90232169fbc444b99c81a8014cdba0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairB_normal
+    second: {fileID: 2800000, guid: 6475ab49e0768b84a869a95b3a6aadf2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chair_A_normal
+    second: {fileID: 2800000, guid: 71c814cce6ca0314b970c0b5e483c68a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: checkin up
+    second: {fileID: 2800000, guid: 4bdfad9274961bf4385fbe1693d5ef74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: checkin_side
+    second: {fileID: 2800000, guid: 5b56b8b3058981d43b44b5dbfdc4912c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: escalator wall.004
+    second: {fileID: 2800000, guid: 40edbc01208a85540b534b37b5483aec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fan.base
+    second: {fileID: 2800000, guid: 7a504de7aa4a67a48b5d618d6d2706c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fan.black
+    second: {fileID: 2800000, guid: 5246cccb18d3571499c9638ae3b23f89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fffffinal_check-in
+    second: {fileID: 2800000, guid: 3c8332d4f77c15c4db5f3b4e521ce5b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flower stand
+    second: {fileID: 2800000, guid: 0a1058e8144315a4db33ee57a6ad9eb3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flower1
+    second: {fileID: 2800000, guid: d8a936ead0ee3e64498322a99ab306c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flower21
+    second: {fileID: 2800000, guid: ef4fa4095c725224f8f753b2a72960ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flower3
+    second: {fileID: 2800000, guid: 1cd0d7ec853872141bb1a1a02cad1be6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: garbage_2
+    second: {fileID: 2800000, guid: 638c579eae6b1e549b1774b7fc461a38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate.002
+    second: {fileID: 2800000, guid: 272137427deaf1244aa724cdf3016311, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate0 to 1
+    second: {fileID: 2800000, guid: 824eafbab0eacc242a97cd13f4a43cb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate1 to 2 _ arrival2.Wall
+    second: {fileID: 2800000, guid: ca0d429595be6454485bc6e90a5972a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate1 to 22_ arrival
+    second: {fileID: 2800000, guid: ee537b0034973c540829b1306dc4ad85, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate1 to 23_ arrival2
+    second: {fileID: 2800000, guid: eb6f6ded3e009d7428d6f3e6a4084e5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate1_center
+    second: {fileID: 2800000, guid: dc7cbe7f818b83b4193d84ffdd9be61d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate1_left
+    second: {fileID: 2800000, guid: ef60ddc7337dcd247b66ff86802c9fa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate1_right
+    second: {fileID: 2800000, guid: c6c0a46b07a91754cba142f94d40a16a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate2_center
+    second: {fileID: 2800000, guid: 6754225f7da7e844b8b651b4e5acf7ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate2_left
+    second: {fileID: 2800000, guid: 2a27a809bb6f88240bfc15f00121e439, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate2_right
+    second: {fileID: 2800000, guid: d31c09859e24dc6468042c88777ff1f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate3_center
+    second: {fileID: 2800000, guid: 373ba12271385af469ba061204c57f21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate3_left
+    second: {fileID: 2800000, guid: 260cbc016a93f824695f59fd174d1526, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate3_right
+    second: {fileID: 2800000, guid: 87e48660c8d9a484683a40a1c2924120, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate4_center
+    second: {fileID: 2800000, guid: 3256d16746f6a1c42bedc6e4021d49b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate4_left
+    second: {fileID: 2800000, guid: 7f4ee8e385820ae4a8e03b00d8a8bba5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate4_right
+    second: {fileID: 2800000, guid: 4a95454c89d9bbe44a64141716df0b85, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate4to5 shinhanbank
+    second: {fileID: 2800000, guid: ef28f63995294c34e861f64d24e8d05c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gate_back
+    second: {fileID: 2800000, guid: c6519ac878a60fe419d23837b060a606, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horsebottom
+    second: {fileID: 2800000, guid: 23b326fdf339a9a4a8daf528c7f69cd5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horsebottom_grass
+    second: {fileID: 2800000, guid: a01eb62c98626ed4b8a36171651272e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: infocenter
+    second: {fileID: 2800000, guid: ad3e169a7e3feb348b97f598a1bd01b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leaf
+    second: {fileID: 2800000, guid: ea0056b5800b57a4d89d30d058f6c56d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leaffinal
+    second: {fileID: 2800000, guid: 58b2e4456f19070469611be7fc979198, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: little brown
+    second: {fileID: 2800000, guid: 78f190f09b5cd8a439fb9b3d8d35cfbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: normal2213
+    second: {fileID: 2800000, guid: 6c49a691bba0f37499b1228ea096b114, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: normal_ChairA
+    second: {fileID: 2800000, guid: f9fbee292041ba544894bf9939be03fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: normal_bake
+    second: {fileID: 2800000, guid: 1063400ce0d70114481f35cd8e072fe0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_Cube.005
+    second: {fileID: 2800000, guid: 33d496d626f819b48822b458870d5354, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_Cube.013
+    second: {fileID: 2800000, guid: 017af0df90cf4eb40b8574d7a13318b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_bank2
+    second: {fileID: 2800000, guid: 3b4c7b4620afa714698393cd56b42ad5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_bank3
+    second: {fileID: 2800000, guid: 075b84f57461ecd4586a9faed644bf2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_bank4
+    second: {fileID: 2800000, guid: 07cf63e3dc6dbda4e8e98c6fa4e1556f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_bank5
+    second: {fileID: 2800000, guid: a1888cdd7a51d154d9cfce85af2b7f99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_banner1
+    second: {fileID: 2800000, guid: 2408900b4bf833f428844f2405d8430b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_banner2
+    second: {fileID: 2800000, guid: 84e67fc51765ece4292941e1e0e0f602, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_cpr1
+    second: {fileID: 2800000, guid: dc7d8c1b2829fe244930152b2ac31e6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_display1
+    second: {fileID: 2800000, guid: f96cb9b6a82b55e48b8125e1bbda6bb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_display3
+    second: {fileID: 2800000, guid: 0c39630d07e30e440bc7ef99a63452ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_display4
+    second: {fileID: 2800000, guid: 123bd6f16a75efa4d8c878cc5e9e9e5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_display5
+    second: {fileID: 2800000, guid: 77c694a6ffbaf534faeb268fc81ec8d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_display6
+    second: {fileID: 2800000, guid: 76b9a4dd8c8e7434fb8fe6ea0c3c3c13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_escalator_notice
+    second: {fileID: 2800000, guid: b80e23c84b7d8694e910c55b775aa546, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_escalator_notice2
+    second: {fileID: 2800000, guid: c5ba3fc6191f3c84bae5a39787f98db5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_food_Plane.021
+    second: {fileID: 2800000, guid: 3759b39f843761b41bf3c9aaa413ae0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_food_plane.006
+    second: {fileID: 2800000, guid: d7447d3d135cecb4c9564b7945f47348, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_free charge
+    second: {fileID: 2800000, guid: 11b604746039aee4eaeeb1912ae2f215, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_garbage
+    second: {fileID: 2800000, guid: 81c7dfc68e379414abdea317948c5388, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_gate3 to 4 _ oliveyoung
+    second: {fileID: 2800000, guid: 8ed24285015940243ab84afbb5d80428, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_gate3 to 4 _ restroom
+    second: {fileID: 2800000, guid: ccabc32b0ec959e4aa4d6e56bfab6cd4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_gate3 to 4 _ restroom_fire
+    second: {fileID: 2800000, guid: e1b011ef8918d5844b0070c24d8c5dd0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_gate4 to 5
+    second: {fileID: 2800000, guid: 682070b94afa24a46a733129df73d345, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_gate4 to 5.002
+    second: {fileID: 2800000, guid: b43cce843f1415442b143799337983b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_gate4 to 5.003
+    second: {fileID: 2800000, guid: eae8cc10c5913e24abf9d3f88af6125f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_gate4 to 5.004
+    second: {fileID: 2800000, guid: 0949f40a69f0a254a8ade1de33077237, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_gate5 gate door
+    second: {fileID: 2800000, guid: 007a7322fdf74ab4a8ce75d21191b837, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_gate5 left
+    second: {fileID: 2800000, guid: 4e7f1e8911206124d8cda4ec0a5d9f23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_gate5_center
+    second: {fileID: 2800000, guid: 03c07e8056d45cd4290bcb750520a4ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_gate5_inner
+    second: {fileID: 2800000, guid: ddd46adbe5bea414f9dc967d5101e05a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_gate5_right
+    second: {fileID: 2800000, guid: 73708e7c9019a3d40ac4d286df4fbd80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_gate_side_wall1
+    second: {fileID: 2800000, guid: a3dda04bd2c466d4dbe2b302f1543ab8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_horse
+    second: {fileID: 2800000, guid: d34bc322bca08b447966577ce28ac352, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_notice3
+    second: {fileID: 2800000, guid: 60f9d5ec437422a4aab4930d9f231ecb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_notice4
+    second: {fileID: 2800000, guid: d8452291532c8da4687cdb83bfa8192f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_notice5
+    second: {fileID: 2800000, guid: 72e366e52e704da4fa89089417caf844, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_notice6
+    second: {fileID: 2800000, guid: 7d44cab48a5feaa4c989db059d3a06ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_photo2
+    second: {fileID: 2800000, guid: e926b9d1876b6a14aae26b4d63e0dd63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_pillar1
+    second: {fileID: 2800000, guid: c53b6e9051b969e49b04db225c4d6390, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_rentcar
+    second: {fileID: 2800000, guid: 4c8dacbdc6c08ee4da91c9abe92e58e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_rentcar2
+    second: {fileID: 2800000, guid: 54e937c72b4a09342b48b73b72ad5afc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_rentcar2.002
+    second: {fileID: 2800000, guid: 8ae0adaced1dcc940bdb5c2b883576f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_rentcar2.003
+    second: {fileID: 2800000, guid: 143e316843b684f45b7a5cc7c23fd0d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_slot
+    second: {fileID: 2800000, guid: 3072e682914384e43b36c0c42b4bc1d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_wheelshare_bottom
+    second: {fileID: 2800000, guid: 63e4a783716455b4a938d83db9421614, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ok_wheelshare_upper
+    second: {fileID: 2800000, guid: 0bf854a2757beab4c91b43adb6d299fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: okj_clock
+    second: {fileID: 2800000, guid: 8b6d704b5495da843ac0b4a745b10da8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: okk_Walls 1024
+    second: {fileID: 2800000, guid: 04e5a8c8d0be77542bb000bde45d683c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pillarcover
+    second: {fileID: 2800000, guid: f9b4e0095c02f7b49a3cc332c2cce238, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pngegg
+    second: {fileID: 2800000, guid: a470fc19a93aafb488f707cde80230d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pngegg-3
+    second: {fileID: 2800000, guid: 7225454db4200814fb9677566914adac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rail
+    second: {fileID: 2800000, guid: 93fef13e928aed847b30e7d17438d2b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: resto-LR
+    second: {fileID: 2800000, guid: b7f3296be5c143849a2b2a744ba7899b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: resto-center
+    second: {fileID: 2800000, guid: bf9b908d1b94c0d46bcef80da6fe0d84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tile
+    second: {fileID: 2800000, guid: 0f5c16d5b29ed7b48805e70ba97ebb30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall-police
+    second: {fileID: 2800000, guid: 5b43b5cbcdb540b41bd9b048899496d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: window.bar
+    second: {fileID: 2800000, guid: 61216ae86b6a6bf45bfed551fe634bcd, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Cube.015","Cube.004","Cube.002","gate3 food_2st floor","3.
+      right.002","3. right.003","3. right.004","3. right.007","3. right.008","3.
+      right.009","3. right.010","3. right.011","acc1.001","acc1.002","acc1.004","acc1.008","acc1.012","ball
+      light","bank1","bank2","bank3","bank4","bank5","Banner.A","Banner.A.001","Banner.A.002","Banner.B","Banner.B.001","Banner.B.002","block_gate1_1","block_gate1_2","block_gate2_1","block_gate2_2","block_gate2_2.001","block_gate2_2.002","block_gate2_2.003","block_gate2_2.004","block_gate2_dif","block_gate2_dif.001","block_gate2_dif.002","block_gate3","block_gate4_1","block_gate4_2","block_gate5_1","block_gate5_2","bolt","bolt.001","ceiling
+      left.002","ceiling1 (gate4-5)","ceiling1_bloom","ceiling2 (gate1)","ceiling2_bloom2","ceiling2_bloom3","ceiling2_bloom4","ceiling2_bloom5","ceiling3
+      (gate3-4)","ceiling3 (gate3-4).001","ceiling4 (gate2-3)","chair1","chair1.002","chair1.004","chair1.005","chair1.006","chair1.007","chair1.008","chair1.009","chair1.010","chair1.011","Chair_A_Test
+      ","Chair_A_Test .005","Chair_B_test","Chair_B_test.001","Chair_B_test.005","Chair_B_test.006","Chair_B_test.007","check-in1","check-in1.001","check-in1.002","check-in1.003","cir
+      table","cir table.001","clock","clock.001","clock.002","clock.003","cover","cover.001","cover_2","cover_2.001","cover_pillar","Cube","Cube.001","Cube.003","Cube.005","Cube.007","Cube.011","Cube.013","Cube.014","cushion","cushion.002","cushion.004","cushion.005","cushion.006","cushion.007","cushion.008","cushion.009","cushion.010","cushion.011","cushion3","escalator
+      rail.001","escalator rail.002","escalator rail.003","escalator rail.004","escalator
+      step.001","escalator step.002","escalator step.005","escalator step.006","escalator
+      step2","escalator wall.001","escalator wall.002","escalator wall.003","escalator
+      wall.004","escalator wall.005","escalator wall.007","escalator wall.008","Fan","Fan.001","Fan.002","Fan.003","fire.001","fire.007","fire.008","fire.009","fire.012","floor1","floor2","floor3","floorline1","floorline2","floorline3","floorline4","floorline5","floorline5.001","floorline6","floorline6.001","garbage4.001","garbage4.002","garbage4.003","garbage4.004","garbage11_AA.001","garbage11_AA.002","garbage11_AA.003","garbage11_AA.004","Gate
+      Door","Gate Door.001","Gate Door.002","Gate Door.003","Gate Door.004","gate0
+      to 1 _ demestic","gate0 to 1 _ eggdrop","gate0 to 1 _ warehouse","gate1 to
+      2 _ arrival","gate1 to 2 _ arrival2","gate1 to 2 _ arrival2.Wall","gate1_center","gate2
+      _ notice info","gate2 _ notice info2","gate2 _ tamnao","gate2 to 3","gate2
+      to 3 _ banking back","gate2 to 3 _ banking back.001","gate2_center","gate3
+      to 4 _ oliveyoung","gate3 to 4 _ restroom","gate3 to 4 _ restroom.left","gate3
+      to 4 _ restroom.upper","gate3_center","gate4","gate4 to 5","gate4 to 5.002","gate4
+      to 5.003","gate4 to 5.005","gate4_center","GATE4to5_shinBank ","gate5","gate5_center","gate_side_wall1","gate_side_wall1.001","gate_side_wall1.002","gate_side_wall1.003","gate_side_wall1.004","gate_side_wall1.005","gate_side_wall1.006","gate_side_wall1.007","gate_side_wall1.008","gate_side_wall1.009","gate_upper","gate_upper.001","gate_upper.002","gate_upper.003","gate_upper.004","gate_upper_side1","gate_upper_side1.001","gate_upper_side1.002","gate_upper_side1.003","gate_upper_side1.004","gate_upper_side2","gate_upper_side2.001","gate_upper_side2.002","gate_upper_side2.003","gate_upper_side2.004","horse","horse_bottom","man","man.001","man.002","notice.001","notice.002","notice.003","notice.008","notice.010","notice.011","notice.012","notice.013","notice1.001","notice2.001","notice3.001","notice4.001","notice5.001","notice6.001","Object","Object.001","Object.002","Object.003","Object.004","Object.005","Object.006","Object.007","Object.008","Object.009","OK_cpr1.001","OK_cpr1.002","OK_cpr2","OK_display1","OK_display3","OK_display3_2","OK_display3_3","OK_display4","OK_display4_2","OK_display6","OK_display9","OK_display9_2","OK_free
+      charge","OK_handwash","OK_photo","OK_photo2","OK_slot","pillar","Plane.001","Plane.002","Plane.003","Plane.004","Plane.005","Plane.006","Plane.007","Plane.009","Plane.010","Plane.011","Plane.012","Plane.013","Plane.014","Plane.015","Plane.016","Plane.017","Plane.018","Plane.019","Plane.020","Plane.275","Plane.276","Plane.345","Plane.347","Plane.356","Plane.362","plant.003","plant.004","plant.006","plant.bush.a","plant.bush.b","Plant.bush.C","Plant.bush.D","rec
+      table","rec table.001","rec table.002","rec table.003","rentcar","rentcar.001","rentcar.002","rentcar.003","rentcar.004","rentcar.005","rentcar2","rentcar2
+      cover","rentcar2.001","rentcar2.002","rentcar2.003","table_center","table_center_upper","table_center_upper1","table_center_upper2","table_center_upper3","table_side1","table_side2","wheelshare_bottom","wheelshare_upper","woman","woman.001","woman.002"],"padding":[7,11,7,6,156,156,156,156,156,156,185,185,47,46,46,43,46,15,33,33,32,33,32,79,79,79,79,79,79,125,125,125,125,197,197,197,197,69,74,51,125,125,125,125,125,55,55,14,2,14,2,12,18,28,17,4,5,4,70,70,70,70,70,70,70,70,70,70,31,31,57,57,57,40,57,62,62,63,63,70,70,183,183,183,183,29,29,29,29,13,256,11,14,92,21,16,16,11,95,95,95,95,95,95,95,95,95,95,36,18,29,20,25,41,41,40,40,41,15,19,9,17,16,20,18,256,256,256,256,256,256,256,256,256,2,5,2,109,109,109,109,109,154,109,155,104,104,104,104,104,104,104,104,19,19,19,19,19,14,13,18,25,15,11,135,30,38,25,8,7,12,135,14,8,20,14,135,17,9,28,11,22,135,19,11,135,23,22,20,20,20,20,20,23,20,20,24,24,24,24,24,147,147,147,147,147,131,131,131,131,131,52,78,225,164,256,212,212,212,212,212,212,212,212,66,66,57,66,66,112,9,9,9,12,9,14,9,9,9,9,93,94,95,47,43,46,46,63,64,63,73,73,54,101,32,32,33,3,55,28,86,39,86,75,29,29,52,39,52,39,52,36,44,44,40,40,19,8,10,68,17,48,48,34,34,34,21,21,18,68,69,69,69,69,18,27,37,39,37,37,53,93,86,62,29,28,26,104,97,94,20,20,26,68,219,159,256],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 8
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
